@@ -1,0 +1,15 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+
+metadata:
+  name: python-app
+  description: Python micro-service
+
+  annotations:
+    backstage.io/source-location: url:https://github.com/venkat455758/python-app.git
+    github.com/project-slug: venkat455758/python-app
+
+spec:
+  type: service
+  owner: development
+  lifecycle: experimental
