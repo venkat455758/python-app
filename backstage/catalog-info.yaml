@@ -8,6 +8,7 @@ metadata:
   annotations:
     backstage.io/source-location: url:https://github.com/venkat455758/python-app.git
     github.com/project-slug: venkat455758/python-app
+    backstage.io/techdocs-ref: url:https://github.com/venkat455758/python-app/tree/main
 
 spec:
   type: service

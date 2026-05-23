@@ -1,0 +1,17 @@
+site_name: "python-app"
+
+site_description: "Main documentation for dummy python application"
+
+repo_url: https://github.com/venkat455758/python-app
+edit_uri: edit/main/docs
+
+plugins:
+  - techdocs-core
+
+nav:
+  - Overview:
+      - Getting Started: index.md
+
+  - Application Architecture:
+       - App Architecture Overview: application-architecture.md
+       - App Architecture Deep Dive: application-architecture-deepdive.md
